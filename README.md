@@ -1,2 +1,2 @@
 # Anime.GG
-Это мой второй сайт
+Its my second site
